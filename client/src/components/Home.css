@@ -1,0 +1,41 @@
+.home {
+    background-color: #233043;
+    height: 100vh;
+    width: 100vw;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btn-1 {
+    width: 230px;
+    height: 50px;
+    border: 3px solid #ff3b59;
+    color: white;
+    background-color: #233043;
+    border-radius: 4px;
+    box-shadow: inset 0 0 0 0 #ff3b59;
+    transition: ease-out 0.3s;
+    font-size: 1.2rem;
+    outline: none;
+    cursor: pointer;
+}
+
+.btn-1:hover {
+    box-shadow: inset 230px 0 0 0 #ff3b59;
+}
+
+.create-icon::before {
+    font: normal normal normal 14px/1 FontAwesome;
+    content: "\f067";
+    margin-right: 10px;
+}
+
+.join-icon::before {
+    font: normal normal normal 14px/1 FontAwesome;
+    content: "\f090";
+    margin-right: 10px;
+}
+
