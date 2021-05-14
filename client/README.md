@@ -6,6 +6,7 @@ Tube Together is a side project i made that allows you to watch Youtube videos a
 Still to do:
 * Easy way to invite people
 * Visualize all people within the room
+* Assign new chat color to everyone in the room
 
 <img width="1638" alt="Schermafbeelding 2021-05-14 om 16 19 20" src="https://user-images.githubusercontent.com/73937734/118285652-fbc3a680-b4d1-11eb-9263-b673610c4137.png">
 
