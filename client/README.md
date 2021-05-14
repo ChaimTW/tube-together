@@ -31,7 +31,6 @@ https://tube-together.netlify.app/player/
 * ReactJS
 * Node/Express
 * Socket.io
-* Spotify Web API
 * Context API
 
 ## Hosting
